@@ -12,6 +12,11 @@ h2{
   text-transform:uppercase;
   padding: 5px;
 }
+h2,p{
+    display: block ;
+    visibility: visible ;
+    opacity: 3 ;
+}
 
 *,
 *::after,
