@@ -8,11 +8,11 @@
   padding-right: 25px;
   text-align: justify;
 }
-h1{
+h2{
   text-transform:uppercase;
   padding: 5px;
 }
-h1,p{
+h2,p{
     display: block ;
     visibility: visible ;
     opacity: 3 ;
