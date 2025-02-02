@@ -20,3 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 onload = () => {
     document.body.classList.remove("container");
 };
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelector("h1").style.display = "block";
+    document.querySelector("p").style.display = "block";
+});
